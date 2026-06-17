@@ -10,7 +10,7 @@ const Banner = () => {
                     Olá, Mundo!
                 </h1>
                 <p className={styles.paragrafo}>
-                    Boas Vindas ao meu espaço pessoal! Eu sou Izadora da Silva Cesar, Sou estudante da Escola SESI de Pederneiras e atualmente estou fazendo o curso técnico em Desenvolvimento de Sistemas. Estou aprendendo sobre programação, lógica, banco de dados e outras ferramentas importantes para criar e manter softwares.
+                    Boas Vindas ao meu espaço pessoal! Eu sou Íris Sou estudante da Escola SESI de Pederneiras e atualmente estou fazendo o curso técnico em Desenvolvimento de Sistemas. Estou aprendendo sobre programação, lógica, banco de dados e outras ferramentas importantes para criar e manter softwares.
                 </p>
             </div>
             <div className={styles.imagens}>
